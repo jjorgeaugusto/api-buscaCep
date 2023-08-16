@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="api-cep">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/api_cep_jar/api-cep.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
